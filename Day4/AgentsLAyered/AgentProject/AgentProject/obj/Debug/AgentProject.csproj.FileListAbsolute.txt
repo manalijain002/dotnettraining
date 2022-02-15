@@ -1,0 +1,17 @@
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\obj\Debug\AgentProject.csproj.AssemblyReference.cache
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\obj\Debug\AgentProject.csproj.SuggestedBindingRedirects.cache
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\obj\Debug\AgentProject.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\obj\Debug\EmployProject.exe
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\obj\Debug\EmployProject.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployProject.exe.config
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployProject.exe
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployProject.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployBusinessLayer.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployDataLayer.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployEntity.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\bin\Debug\Exceptions.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployBusinessLayer.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployDataLayer.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\bin\Debug\EmployEntity.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\bin\Debug\Exceptions.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployProject\EmployProject\obj\Debug\AgentProject.csproj.CopyComplete

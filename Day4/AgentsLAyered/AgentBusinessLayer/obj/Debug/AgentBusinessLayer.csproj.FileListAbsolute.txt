@@ -1,0 +1,13 @@
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployBusinessLayer\obj\Debug\AgentBusinessLayer.csproj.AssemblyReference.cache
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployBusinessLayer\obj\Debug\AgentBusinessLayer.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployBusinessLayer\obj\Debug\EmployBusinessLayer.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployBusinessLayer\obj\Debug\EmployBusinessLayer.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployBusinessLayer\bin\Debug\EmployBusinessLayer.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployBusinessLayer\bin\Debug\EmployBusinessLayer.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployBusinessLayer\bin\Debug\EmployDataLayer.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployBusinessLayer\bin\Debug\EmployEntity.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployBusinessLayer\bin\Debug\Exceptions.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployBusinessLayer\bin\Debug\EmployDataLayer.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployBusinessLayer\bin\Debug\EmployEntity.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployBusinessLayer\bin\Debug\Exceptions.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployBusinessLayer\obj\Debug\AgentBusinessLayer.csproj.CopyComplete

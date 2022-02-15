@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0abc7e6c-499a-46a2-9f1a-eb126ad44dc0": {
+      "ProjectGuid": "0abc7e6c-499a-46a2-9f1a-eb126ad44dc0",
+      "DisplayName": "Exceptions",
+      "ColorIndex": 0
+    },
+    "3486991f-29e0-4913-9315-e4bb637b9109": {
+      "ProjectGuid": "3486991f-29e0-4913-9315-e4bb637b9109",
+      "DisplayName": "AgentProject",
+      "ColorIndex": 1
+    },
+    "da150055-0ad8-42ec-bbf5-cc68bab6461c": {
+      "ProjectGuid": "da150055-0ad8-42ec-bbf5-cc68bab6461c",
+      "DisplayName": "AgentEntity",
+      "ColorIndex": 2
+    },
+    "f29e2028-0328-4e95-867a-067db48a18b2": {
+      "ProjectGuid": "f29e2028-0328-4e95-867a-067db48a18b2",
+      "DisplayName": "AgentDataLayer",
+      "ColorIndex": 3
+    },
+    "b50e4853-d469-4101-975c-d5fa2b2425cd": {
+      "ProjectGuid": "b50e4853-d469-4101-975c-d5fa2b2425cd",
+      "DisplayName": "AgentBusinessLayer",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

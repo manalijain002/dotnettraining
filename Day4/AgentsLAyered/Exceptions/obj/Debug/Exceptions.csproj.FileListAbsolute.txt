@@ -1,0 +1,11 @@
+C:\dotnet_cg\Day4\Layered\Exceptions\bin\Debug\Exceptions.dll
+C:\dotnet_cg\Day4\Layered\Exceptions\bin\Debug\Exceptions.pdb
+C:\dotnet_cg\Day4\Layered\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\dotnet_cg\Day4\Layered\Exceptions\obj\Debug\Exceptions.dll
+C:\dotnet_cg\Day4\Layered\Exceptions\obj\Debug\Exceptions.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\Exceptions\bin\Debug\Exceptions.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\Exceptions\bin\Debug\Exceptions.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\Exceptions\obj\Debug\Exceptions.csproj.AssemblyReference.cache
+E:\CAPGEMINI PROJECT\Day4\Layered\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PROJECT\Day4\Layered\Exceptions\obj\Debug\Exceptions.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\Exceptions\obj\Debug\Exceptions.pdb

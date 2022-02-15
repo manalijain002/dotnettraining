@@ -1,0 +1,9 @@
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployDataLayer\obj\Debug\AgentDataLayer.csproj.AssemblyReference.cache
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployDataLayer\obj\Debug\AgentDataLayer.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployDataLayer\obj\Debug\EmployDataLayer.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployDataLayer\obj\Debug\EmployDataLayer.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployDataLayer\bin\Debug\EmployDataLayer.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployDataLayer\bin\Debug\EmployDataLayer.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployDataLayer\bin\Debug\EmployEntity.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployDataLayer\bin\Debug\EmployEntity.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployDataLayer\obj\Debug\AgentDataLayer.csproj.CopyComplete

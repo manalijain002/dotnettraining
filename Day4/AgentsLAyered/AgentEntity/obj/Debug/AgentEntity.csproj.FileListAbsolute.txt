@@ -1,0 +1,6 @@
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployEntity\bin\Debug\EmployEntity.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployEntity\bin\Debug\EmployEntity.pdb
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployEntity\obj\Debug\AgentEntity.csproj.AssemblyReference.cache
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployEntity\obj\Debug\AgentEntity.csproj.CoreCompileInputs.cache
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployEntity\obj\Debug\EmployEntity.dll
+E:\CAPGEMINI PROJECT\Day4\Layered\EmployEntity\obj\Debug\EmployEntity.pdb
